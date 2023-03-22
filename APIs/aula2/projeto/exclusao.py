@@ -14,7 +14,8 @@ produto = response.json()
 # Realize uma solicitação DELETE à API para deletar o produto
 response = requests.delete(url)
 
-if response.status_code == 200:
-  print(f'O pruduto {produto["descricao"]} foi deletado com sucesso!')
-else:
-  print('Erro ao deletar o produto.')
+try:
+  if response.status_code == 200:
+    print(f'O pruduto {produto["descricao"]} foi deletado com sucesso!')
+except:
+    print('Erro ao deletar o produto.')

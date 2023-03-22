@@ -2,13 +2,18 @@ import requests
 
 # Lê as informações do novo produto do terminal
 itemId = int(input("Código do produto a ser alterado: "))
-descricao = input("Digite o nome do produto: ")
-marca = input("Digite a marca do produto: ")
-quantidade = int(input("Digite a quantidade do produto: "))
-preco = float(input("Digite o preço do produto: "))
-
-# URL da API para atualização do produto
 url = f'http://localhost:3000/produtos/{itemId}'
+response = requests.get(url)
+produto = response.json()
+
+print(f'Nome atual do produto: {produto["descricao"]}')
+descricao = input("Digite o nome do produto: ")
+print(f"Marca atual do produto: {produto['marca']}")
+marca = input("Digite a marca do produto: ")
+print(f"Quantidade atual do produto: {produto['quant']}")
+quantidade = int(input("Digite a quantidade do produto: "))
+print(f"Preço atual do produto: {produto['preco']}")
+preco = float(input("Digite o preço do produto: "))
 
 # Novos dados do produto
 novo_produto = {
