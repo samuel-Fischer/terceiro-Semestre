@@ -1,0 +1,4 @@
+Lucas Santos;2x2;12.0
+Marcelo Souza;1x1;20.0
+Fabricio Costa;1x3;15.0
+Ana dos Santos;3x0;10.0
