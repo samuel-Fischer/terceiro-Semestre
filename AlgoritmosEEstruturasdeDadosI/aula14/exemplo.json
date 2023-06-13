@@ -1,0 +1,302 @@
+[
+    {
+        "nome": "Tiquinho Soares",
+        "posicao": "Atacante",
+        "gols": " 8 ",
+        "clube": "Botafogo"
+    },
+    {
+        "nome": "Róger Guedes",
+        "posicao": "Atacante",
+        "gols": " 5 ",
+        "clube": "Corinthians"
+    },
+    {
+        "nome": "Hulk",
+        "posicao": "Atacante",
+        "gols": " 5 ",
+        "clube": "Atlético-MG"
+    },
+    {
+        "nome": "Calleri",
+        "posicao": "Atacante",
+        "gols": " 4 ",
+        "clube": "São Paulo"
+    },
+    {
+        "nome": "Vitor Roque",
+        "posicao": "Atacante",
+        "gols": " 4 ",
+        "clube": "Athletico-PR"
+    },
+    {
+        "nome": "Pedro",
+        "posicao": "Atacante",
+        "gols": " 4 ",
+        "clube": "Flamengo"
+    },
+    {
+        "nome": "Thiago Borbas",
+        "posicao": "Atacante",
+        "gols": " 4 ",
+        "clube": "Bragantino"
+    },
+    {
+        "nome": "Artur",
+        "posicao": "Atacante",
+        "gols": " 4 ",
+        "clube": "Palmeiras"
+    },
+    {
+        "nome": "Raphael Veiga",
+        "posicao": "Meio campo",
+        "gols": " 4 ",
+        "clube": "Palmeiras"
+    },
+    {
+        "nome": "Eduardo Sasha",
+        "posicao": "Atacante",
+        "gols": " 4 ",
+        "clube": "Bragantino"
+    },
+    {
+        "nome": "Bruno Rodrigues",
+        "posicao": "Atacante",
+        "gols": " 3 ",
+        "clube": "Cruzeiro"
+    },
+    {
+        "nome": "Paulinho",
+        "posicao": "Atacante",
+        "gols": " 3 ",
+        "clube": "Atlético-MG"
+    },
+    {
+        "nome": "Gilberto",
+        "posicao": "Atacante",
+        "gols": " 3 ",
+        "clube": "Cruzeiro"
+    },
+    {
+        "nome": "Aloísio",
+        "posicao": "Atacante",
+        "gols": " 3 ",
+        "clube": "América-MG"
+    },
+    {
+        "nome": "Robson",
+        "posicao": "Atacante",
+        "gols": " 3 ",
+        "clube": "Coritiba"
+    },
+    {
+        "nome": "Wesley",
+        "posicao": "Atacante",
+        "gols": " 3 ",
+        "clube": "Cruzeiro"
+    },
+    {
+        "nome": "Deyverson",
+        "posicao": "Atacante",
+        "gols": " 3 ",
+        "clube": "Cuiabá"
+    },
+    {
+        "nome": "Lima",
+        "posicao": "Meio campo",
+        "gols": " 3 ",
+        "clube": "Fluminense"
+    },
+    {
+        "nome": "Léo Pereira",
+        "posicao": "Zagueiro Esquerdo",
+        "gols": " 3 ",
+        "clube": "Flamengo"
+    },
+    {
+        "nome": "Ganso",
+        "posicao": "Meio campo",
+        "gols": " 3 ",
+        "clube": "Fluminense"
+    },
+    {
+        "nome": "Ayrton Lucas",
+        "posicao": "Lateral Esquerda",
+        "gols": " 3 ",
+        "clube": "Flamengo"
+    },
+    {
+        "nome": "Gabriel",
+        "posicao": "Atacante",
+        "gols": " 3 ",
+        "clube": "Flamengo"
+    },
+    {
+        "nome": "Cano",
+        "posicao": "Atacante",
+        "gols": " 3 ",
+        "clube": "Fluminense"
+    },
+    {
+        "nome": "Christian",
+        "posicao": "Volante",
+        "gols": " 3 ",
+        "clube": "Athletico-PR"
+    },
+    {
+        "nome": "Wanderson",
+        "posicao": "Atacante",
+        "gols": " 3 ",
+        "clube": "Internacional"
+    },
+    {
+        "nome": "Moisés",
+        "posicao": "Atacante",
+        "gols": " 3 ",
+        "clube": "Fortaleza"
+    },
+    {
+        "nome": "Endrick",
+        "posicao": "Atacante",
+        "gols": " 3 ",
+        "clube": "Palmeiras"
+    },
+    {
+        "nome": "Ângelo",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Santos"
+    },
+    {
+        "nome": "Pavón",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Atlético-MG"
+    },
+    {
+        "nome": "Luis Suárez",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Grêmio"
+    },
+    {
+        "nome": "Thiago Galhardo",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Fortaleza"
+    },
+    {
+        "nome": "Dudu",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Palmeiras"
+    },
+    {
+        "nome": "John Kennedy",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Fluminense"
+    },
+    {
+        "nome": "Willian",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Athletico-PR"
+    },
+    {
+        "nome": "Everton Galdino",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Grêmio"
+    },
+    {
+        "nome": "Júnior Santos",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Botafogo"
+    },
+    {
+        "nome": "Pablo Maia",
+        "posicao": "Volante",
+        "gols": " 2 ",
+        "clube": "São Paulo"
+    },
+    {
+        "nome": "Silvio Romero",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Fortaleza"
+    },
+    {
+        "nome": "Yago Pikachu",
+        "posicao": "Meio campo",
+        "gols": " 2 ",
+        "clube": "Fortaleza"
+    },
+    {
+        "nome": "Pedro Raul",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Vasco"
+    },
+    {
+        "nome": "Mendoza",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Santos"
+    },
+    {
+        "nome": "Gabriel Pec",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Vasco"
+    },
+    {
+        "nome": "Luciano",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "São Paulo"
+    },
+    {
+        "nome": "Marcos Paulo",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "São Paulo"
+    },
+    {
+        "nome": "Nino",
+        "posicao": "Zagueiro Direito",
+        "gols": " 2 ",
+        "clube": "Fluminense"
+    },
+    {
+        "nome": "Biel",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Bahia"
+    },
+    {
+        "nome": "Eduardo",
+        "posicao": "Meio campo",
+        "gols": " 2 ",
+        "clube": "Botafogo"
+    },
+    {
+        "nome": "Everaldo",
+        "posicao": "Atacante",
+        "gols": " 2 ",
+        "clube": "Bahia"
+    },
+    {
+        "nome": "Hyoran",
+        "posicao": "Meio campo",
+        "gols": " 2 ",
+        "clube": "Atlético-MG"
+    },
+    {
+        "nome": "Gerson",
+        "posicao": "Meio campo",
+        "gols": " 2 ",
+        "clube": "Flamengo"
+    }
+]
